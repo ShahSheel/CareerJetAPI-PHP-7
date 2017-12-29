@@ -1,11 +1,11 @@
 <?php
 
-namespace App\Classes;
+namespace App\Classes; //Change this to your path 
 
  /**
  * Access Careerjet's job search from PHP
  *
- * PHP versions 4 and 5
+ * PHP versions 4 5 and 7
  *
  * LICENSE: This source file is subject to version 3.0 of the PHP license
  * that is available through the world-wide-web at the following URI:
